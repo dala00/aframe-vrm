@@ -1,0 +1,23 @@
+{
+  "name": "aframe-vrm",
+  "version": "1.0.0",
+  "description": "Using VRM model component for A-Frame",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dala00/aframe-vrm.git"
+  },
+  "keywords": [
+    "A-Frame",
+    "VRM"
+  ],
+  "author": "dala00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dala00/aframe-vrm/issues"
+  },
+  "homepage": "https://github.com/dala00/aframe-vrm#readme"
+}
