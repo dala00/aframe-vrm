@@ -1,5 +1,5 @@
 {
-  "name": "aframe-vrm",
+  "name": "aframe-vrm-component",
   "version": "0.0.1",
   "description": "Using VRM model component for A-Frame",
   "main": "dist/aframe-vrm.module.js",

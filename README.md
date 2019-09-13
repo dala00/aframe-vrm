@@ -1,4 +1,4 @@
-# aframe-vrm
+# aframe-vrm-component
 
 Use [VRM](https://vrm.dev/) on [A-Frame](https://aframe.io/)
 
